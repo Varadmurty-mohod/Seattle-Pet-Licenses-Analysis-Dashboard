@@ -4,6 +4,8 @@ An analysis of the Seattle Pet Licenses open datset by the Seattle Government.
 
 The dataset contains a list of active/current Seattle pet licenses, including animal type (species), pet's name, breed and the owner's ZIP code.
 
+Analysis includes Data Profiling, Cleaning, Modelling, Staging, integration to SQL cloud servers and BI visualisations.
+
 <img width="1451" alt="Screenshot 2023-05-07 at 11 44 24 PM" src="https://user-images.githubusercontent.com/69577585/236729114-cc3a90d5-e92a-4a27-bb7c-e11d42f4187a.png">
 
 PowerBI Screenshots:
